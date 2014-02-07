@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.7)
+cmake_minimum_required(VERSION 2.6)
 project (jembed)
 
 find_package(JNI REQUIRED)
