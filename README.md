@@ -7,6 +7,7 @@ Requirements
 ------------
 
 - JDK
+- Maven
 - CMake
 
 
